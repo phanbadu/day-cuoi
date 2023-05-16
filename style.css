@@ -6,7 +6,7 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
     font-family: 'Roboto', sans-serif;
-    /* user-select: none; */
+    user-select: none; 
 }
 
 section {
@@ -352,7 +352,7 @@ section {
 }
 
 .contact-list__item a:hover {
-    color: #0821ff;
+    color: #7983df;
     transition: 0.5s;
 }
 
